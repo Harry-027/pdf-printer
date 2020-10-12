@@ -1,6 +1,6 @@
-# go-personal-diary
+# pdf-printer
 ---
-A CLI that generates PDFs in bulk very quickly. Thanks to Golang concurrency.
+A CLI that generates PDFs in bulk very quickly. Thanks to Golang concurrency :heart: .
 Currently it supports following use cases:-
 
 * Employee Payslip
