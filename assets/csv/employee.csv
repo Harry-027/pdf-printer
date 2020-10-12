@@ -1,0 +1,9 @@
+employer_name,employee_name,designation,pay_period,date_of_payment,ctc,net_salary,work_days,absence,basic,hra,skillAllowance,medicalAllowance,pfContribution,incomeTax,exemption,net_payment
+Wxyz Pvt. Ltd.,Raghu,QA Lead,20-Sept-20 to 20-Oct-20,1-Oct-2020,100000,800000,26,4,20000,10000,5000,2000,2000,6000,2000,40000
+Wxyz Pvt. Ltd.,Sham,Software Engineer,20-Sept-20 to 20-Oct-20,1-Oct-2020,3000000,2800000,26,4,20000,10000,5000,2000,2000,6000,2000,70000
+Wxyz Pvt. Ltd.,David,Software Developer,20-Sept-20 to 20-Oct-20,1-Oct-2020,3000000,2800000,26,4,20000,10000,5000,2000,2000,6000,2000,700000
+Wxyz Pvt. Ltd.,George,Full stack Developer,20-Sept-20 to 20-Oct-20,1-Oct-2020,3000000,2800000,26,4,20000,10000,5000,2000,2000,6000,2000,800000
+Wxyz Pvt. Ltd.,Dimmy,Scrum Master,20-Sept-20 to 20-Oct-20,1-Oct-2020,4000000,3800000,26,4,20000,10000,5000,2000,2000,6000,2000,80000
+Wxyz Pvt. Ltd.,Tim,Automation Engineer,20-Sept-20 to 20-Oct-20,1-Oct-2020,5000000,4800000,26,4,20000,10000,5000,2000,2000,6000,2000,90000
+Wxyz Pvt. Ltd.,Brag,Technical Manager,20-Sept-20 to 20-Oct-20,1-Oct-2020,6000000,4800000,26,4,20000,10000,5000,2000,2000,6000,2000,100000
+Wxyz Pvt. Ltd.,Meg,Architect,20-Sept-20 to 20-Oct-20,1-Oct-2020,7000000,7000000,26,4,20000,10000,5000,2000,2000,6000,2000,200000
